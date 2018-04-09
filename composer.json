@@ -1,0 +1,5 @@
+{
+    "require": {
+        "paragonie/easyrsa": "^0.5.0"
+    }
+}
